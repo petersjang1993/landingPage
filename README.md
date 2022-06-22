@@ -1,2 +1,0 @@
-# landingPage
-My First Project
